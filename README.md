@@ -11,13 +11,14 @@ external API.
 The game starts with two words with the letters initially hidden. Correct guesses reveal the letters. 
 
 ![Hangman Start](images/hangman-begin-game.png)
+
 The game ends 
 when the user runs out of guess or correctly guess the two words.
 
 ![Hangman End](images/hangman-correctguesses.png)
 
 
-####Reset: ####
+#### Reset: ####
 Press **reset** to start a new game
 
 #### Installation ####
