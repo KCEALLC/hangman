@@ -1,5 +1,5 @@
 # hangman
-Simple hangman game.
+Simple hangman game built with **JavaScript** using ES6 modules, classes and a custom API.
 
 
 
